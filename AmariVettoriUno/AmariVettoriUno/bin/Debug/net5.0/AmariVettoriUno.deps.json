@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AmariVettoriUno/1.0.0": {
+        "runtime": {
+          "AmariVettoriUno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmariVettoriUno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

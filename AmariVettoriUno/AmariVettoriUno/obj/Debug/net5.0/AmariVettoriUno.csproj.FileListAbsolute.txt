@@ -1,0 +1,16 @@
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\AmariVettoriUno.exe
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\AmariVettoriUno.deps.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\AmariVettoriUno.runtimeconfig.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\AmariVettoriUno.runtimeconfig.dev.json
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\AmariVettoriUno.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\ref\AmariVettoriUno.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\bin\Debug\net5.0\AmariVettoriUno.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.AssemblyInfo.cs
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\ref\AmariVettoriUno.dll
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.pdb
+C:\Users\Utente\Desktop\3di-2022-esercizivettori-SimoneAmari\AmariVettoriUno\AmariVettoriUno\obj\Debug\net5.0\AmariVettoriUno.genruntimeconfig.cache
