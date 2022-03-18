@@ -1,0 +1,16 @@
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\AmariVettori6.exe
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\AmariVettori6.deps.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\AmariVettori6.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\AmariVettori6.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\AmariVettori6.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\ref\AmariVettori6.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\bin\Debug\net5.0\AmariVettori6.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\ref\AmariVettori6.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-SimoneAmari\AmariVettori6\AmariVettori6\obj\Debug\net5.0\AmariVettori6.genruntimeconfig.cache
