@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Prof_gol/1.0.0": {
+        "runtime": {
+          "Prof_gol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prof_gol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
